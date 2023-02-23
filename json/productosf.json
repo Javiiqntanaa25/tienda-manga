@@ -1,0 +1,63 @@
+{
+    "titulotienda" : "MangaYa",
+    "productoss" : "mangas, figuras y articulos del mundo del anime",
+    "direccion" : "c/Bravo murrilo 39",
+    "productos" : [
+      {
+        "nombre" : "Bibliomania",
+        "tipo" : "Manga",
+        "editorial" : "Kibook ediciones",
+        "volumenes" : "One-shot",
+        "estado" : "Finalizado",
+        "imagen" : "../img/1.jpg",
+        "precio" : "9'90€",
+        "disponibilidad" : "En Stock"
+      },
+      {
+        "nombre" : "Oshi no Ko nº5",
+        "tipo" : "Manga",
+        "editorial" : "Ivrea",
+        "volumenes" : "10",
+        "estado" : "en publicacion",
+        "imagen" : "../img/2.jpg",
+        "precio" : "9'90€",
+        "disponibilidad" : "En Stock"
+      },
+      {
+        "nombre" : "Hajime no ippo nº69",
+        "tipo" : "Manga",
+        "editorial" : "planeta comic",
+        "volumenes":"135",
+        "estado" :"en publicacion",
+        "imagen" : "../img/3.jpg",
+        "precio" : "7.50€",
+        "disponibilidad" :"No disponible"
+      }
+    ],
+    "productos2" : [
+      {
+       "nombre" : "Maki Zenin Jujutsu Kaisen Pop Up Parade Figura 17 Cm",
+       "tipo" : "Figura",
+       "marca" : "GOOD SMILE COMPANY",
+       "imagen" : "../img/4.jpg",
+       "precio" : "47'50€",
+       "disponibilidad" : "En Stock"
+      },
+      {
+        "nombre": "Kirito SAO War Of Underworld Figura 17 Cm",
+        "tipo" : "Figura",
+        "marca" : "Banpresto",
+        "imagen" : "../img/5.jpg",
+        "precio" : "24'95€",
+        "disponibilidad" :"No disponible"
+      },
+      {
+        "nombre" : "Giyu Tomioka Demon Slayer: Kimetsu No Yaiba figura 14 cm",
+        "tipo" : "Figura",
+        "marca" : "Sega Goods",
+        "imagen" : "../img/6.jpg",
+        "precio" : "33'50€",
+        "disponibilidad" :"En Stock"
+      }
+    ]
+  }
